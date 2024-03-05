@@ -12,6 +12,9 @@ module.exports = {
       fontFamily: {
         'cantata-one': ['Cantata One', 'sans-serif'], // Adding Cantata One typography
       },
+      letterSpacing: {
+        custom: '0.30em',
+      },
     },
   },
   variants: {
